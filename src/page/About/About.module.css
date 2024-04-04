@@ -1,0 +1,21 @@
+.about {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.about p {
+	color: #494949;
+	margin-bottom: 2em;
+}
+.portfolio {
+	border-bottom: 1px #aaa;
+	text-decoration: wavy underline #aaa 1px;
+}
+.create_post {
+	background-color: black;
+	color: white;
+	display: block;
+	margin-top: 2em;
+	padding: 10px 15px;
+}

@@ -1,0 +1,26 @@
+.login {
+	text-align: center;
+}
+
+.login p {
+	color: #aaa;
+}
+
+.btn_login {
+	display: block;
+}
+
+.register_now {
+	width: fit-content;
+	font-size: 0.9em;
+	color: #3a3a3a;
+	text-decoration: dotted underline #3a3a3a 1px;
+	text-underline-offset: 5px;
+	display: block;
+	text-align: left;
+	margin-bottom: 15px;
+}
+
+.register_now:hover {
+	text-decoration-color: #aaa;
+}
